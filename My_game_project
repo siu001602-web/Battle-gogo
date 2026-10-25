@@ -1,0 +1,5 @@
+My_game_project/
+├── battle/
+│   └── main.py       # ⚔️ 배틀 게임용 main.py
+└── gacha/
+    └── main.py       # 🎰 뽑기 시스템용 main.py
